@@ -1,0 +1,37 @@
+
+body{
+    font-family: 'Source Code Pro', monospace;
+}
+
+
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0.5em 0.5em;
+}
+
+.menu_hamburguer{
+    background-image: url('/high-lading/src/img/menu.svg');
+    width: 3.5em;
+    height: 3em;
+}
+
+
+.banner{
+    width: 90%;
+    margin: auto;
+}
+
+
+.titulo{
+    font-size: 1.5em;
+    font-weight: 400;
+    margin-bottom: 1.5em;
+}
+
+.texto_banner{
+    font-size: 1.12em;
+    
+}
